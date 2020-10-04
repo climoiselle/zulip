@@ -1,12 +1,12 @@
 # Zulip overview
 
-Zulip is a powerful, open source group chat application that combines the
+Zulip is a powerful, Open Source group chat application that combines the
 immediacy of real-time chat with the productivity benefits of threaded
 conversations. Zulip is used by open source projects, Fortune 500 companies,
 large standards bodies, and others who need a real-time chat system that
 allows users to easily process hundreds or thousands of messages a day. With
 over 500 contributors merging over 500 commits a month, Zulip is also the
-largest and fastest growing open source group chat project.
+largest and fastest-growing Open Source group chat project.
 
 [![CircleCI branch](https://img.shields.io/circleci/project/github/zulip/zulip/master.svg)](https://circleci.com/gh/zulip/zulip/tree/master)
 [![Coverage Status](https://img.shields.io/codecov/c/github/zulip/zulip/master.svg)](https://codecov.io/gh/zulip/zulip/branch/master)
@@ -54,7 +54,7 @@ You might be interested in:
   also recommend reading Zulip for
   [open source](https://zulip.com/for/open-source/), Zulip for
   [companies](https://zulip.com/for/companies/), or Zulip for
-  [working groups and part time communities](https://zulip.com/for/working-groups-and-communities/).
+  [working groups and part-time communities](https://zulip.com/for/working-groups-and-communities/).
 
 * **Running a Zulip server**. Use a preconfigured [DigitalOcean droplet](https://marketplace.digitalocean.com/apps/zulip),
   [install Zulip](https://zulip.readthedocs.io/en/stable/production/install.html)
